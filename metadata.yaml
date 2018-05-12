@@ -1,0 +1,33 @@
+_repo: Among-the-Pines--or-South-in-Secession-Time_22960
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gilmore, James R. (James Roberts)
+    aliases:
+    - Kirke, Edmund
+    - Gilmore, James Roberts
+    - Gilmore, J. R. (James Roberts)
+    birthdate: 1822
+    deathdate: 1903
+    gutenberg_agent_id: '25610'
+    url: http://www.gutenberg.org/2009/agents/25610
+description: ''
+gutenberg_issued: '2007-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22960'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'War stories'
+- !lcsh 'Southern States -- History -- Fiction'
+- !lcc 'PS'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Fiction'
+- !lcsh 'Confederate States of America -- History -- Fiction'
+title: Among the Pines; or, South in Secession Time
+url: http://www.gutenberg.org/ebooks/22960
